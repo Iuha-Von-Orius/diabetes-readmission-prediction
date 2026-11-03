@@ -1,0 +1,4 @@
+model,cv_f1_mean,cv_f1_std_rounded,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc
+Linear SVM,0.3927,0.007,0.6048,0.6711,0.2796,0.3948,0.6549
+Logistic Regression,0.5133,0.005,0.6205,0.6275,0.4349,0.5138,0.6606
+Random Forest,0.5294,0.001,0.634,0.647,0.4531,0.533,0.6829
